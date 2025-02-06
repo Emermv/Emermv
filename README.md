@@ -2,8 +2,8 @@
 <h1 align="center"><b>Hi , I'm Emer Isau </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Emer+Isau..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experienced+Software+Engineer,;Self-taught+and+Fast+Learner,;Golang+and+DevOps+Enthusiast,;Cloud+%26+Kubernetes+Specialist,;Full-Stack+Developer+(Web/Mobile),;Always+Exploring+AI,+IoT+%26+Blockchain..<3
+">
 </p>
 
 
@@ -18,7 +18,7 @@
 
 - **Passionate Software Engineer** with over 5 years of experience in building scalable and innovative solutions.  
 - **Expertise** in diverse fields, including web development, mobile apps, backend systems, DevOps, and cloud infrastructure.  
-- Avid **problem-solver** who enjoys tackling challenges like **CTFs** and exploring new technologies in spare time.  
+- Avid **problem-solver** who enjoys taking challenges and exploring new technologies in spare time.  
 - **Continuous learner** currently exploring cutting-edge tools and frameworks like **Rust** and **blockchain technology**.  
 - Check out my [personal website](https://www.emirisau.dev) to see my projects and achievements.  
 - Open to exciting opportunities in software engineering, DevOps, or AI-driven projects. [View my resume](https://read.cv/)  
@@ -31,8 +31,6 @@
 <br>
 
 <p align="center">
-
-- **Languages**:
     
 ## Languages
 
@@ -150,14 +148,19 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Emermv)](https://github.com/Emermv)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Emermv&theme=onedark)](https://github.com/Emermv)
 </div>
 
 <br>
 <br>
 <br>
-
------
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <img alt="Isau's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emermv&langs_count=20&layout=compact#" />
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
 
 <br>
 <br>
@@ -166,19 +169,11 @@
 <br>
 <div align='left'>
 
-<ul>
+<ul style="list-style:none">
 
 <li>
-<a href="https://linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://pe.linkedin.com/in/isau-m-596539203/en?trk=people-guest_people_search-card" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: Emer Isau-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -186,7 +181,7 @@
 
 <li>
 <a href="mailto:emer.isau@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail: Emer Isau-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -196,5 +191,10 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
+</br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
