@@ -2,8 +2,7 @@
 <h1 align="center"><b>Hi , I'm Emer Isau </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experienced+Software+Engineer,;Self-taught+and+Fast+Learner,;Golang+and+DevOps+Enthusiast,;Cloud+%26+Kubernetes+Specialist,;Full-Stack+Developer+(Web/Mobile),;Always+Exploring+AI,+IoT+%26+Blockchain..<3
-">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experienced+Software+Engineer,;Self-taught+and+Fast+Learner,;Golang+and+DevOps+Enthusiast,;Cloud+%26+Kubernetes+Specialist,;Full-Stack+Developer+(Web/Mobile),;Always+Exploring+AI,+IoT+%26+Blockchain..<3">
 </p>
 
 
